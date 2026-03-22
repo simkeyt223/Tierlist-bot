@@ -1,5 +1,5 @@
 {
-  "token": "Enter discord token here",
-  "roleID": "Enter role tester ID here",
-  "channelID": "Enter channel to send queue embed"
+  "token": "",
+  "roleID": "1485408846381060229",
+  "channelID": "1485408080668655667"
 }
